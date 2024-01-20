@@ -7,6 +7,6 @@ primera simulacion fue Mineralogia homogenea con datos de Fe,PO4 Y Bauxite.
 segunda simulacion Mineralogia Desconocida
 tercera simulacion de Metales Base(Cu,Ni,Zn,Pb,Al).
 
-se le creo un menu para procesar, generar grafico y guardar grafico. las simulaciones fueron hechas usando python,matplotlib,notebook,numpy,pandas,Pil y jupiter
+se le creo un menu para procesar, generar grafico y guardar grafico, en el grafico se debia reprentar los datos en areas seguras y en areas no seguros pintadas en color rojo se anexa screen de ejemplo de grafico. las simulaciones fueron hechas usando python,matplotlib,notebook,numpy,pandas,Pil y jupiter
 
 En la carpeta ejecutable se encuentra condensado todo en solo archivo ejecutable para iniciar la ejecucion, los demas son archivos que se generaron para crear dicha simulacion.
